@@ -4,12 +4,11 @@
 **A.A.**: 2023/2024
 
 ## Descrizione
-Il corso introdduttivosi divide in due parti:
+Il corso introduttivo si divide in due parti:
 - Apprendimento Automatico (ML)
 - Intelligenza Artificiale Simbilica
 
-L'homework è relativo alla sezione di ML.\
-Comprende l'implementazione di modelli di apprendimento automatico per i seguenti problemi:
+Le esercitazioni sono relative alla sezione Symbolic AI, l'homework invece è relativo alla sezione di ML e comprende l'implementazione di modelli di apprendimento automatico per i seguenti problemi:
 
 **Regressione**
 - Regressione lineare
